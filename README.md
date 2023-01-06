@@ -7,8 +7,8 @@ Created for the Ohjelmointi 1 (Programming 1) -course as the final project. The 
 - There up to 5757 different possible words in English and 3286 in Finnish.
 - Supports keyboard as well as the in-game UI for input.
 
-![](images/2.PNG)
-![](images/1.PNG)
+![](images/2.png)
+![](images/1.png)
 
 # Installation
 [Python 3](https://www.python.org/downloads/) is needed
