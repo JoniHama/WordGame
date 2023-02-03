@@ -13,13 +13,9 @@ Created for the Ohjelmointi 1 (Programming 1) -course as the final project. The 
 # Installation
 [Python 3](https://www.python.org/downloads/) is needed
 
+This game only uses standard Python library so requirements.txt is not needed.
+
 Download the code from the repository and launch a terminal. Then navigate to the folder where you have installed the code.
-
-After that type:
-
-```
-pip install -r requirements.txt
-```
 
 Once it's installed launch the WordGame.py from the terminal:
 
